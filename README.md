@@ -99,23 +99,21 @@ The system supports **regional languages (e.g., Marathi, Bengali, Kannada)**, en
 
 ## 📸 Example Output (Marathi Input)
 
-```markdown
 ![Marathi Input](assets/marathi_input.jpeg)
-```
+
 
 ---
-```markdown
+
 ![Marathi Output](assets/marathi_output.jpeg)
-```
+
 
 ---
 
 ## 🎥 Demo Video
 
-```markdown
 
 [Download / Watch Video](assets/demo.mp4)
-```
+
 
 ---
 
