@@ -100,7 +100,7 @@ The system supports **regional languages (e.g., Marathi, Bengali, Kannada)**, en
 ## 📸 Example Output (Marathi Input)
 
 ```markdown
-![Marathi Input](marathi input.jpeg)
+![Marathi Input](/marathi input.jpeg)
 ```
 
 ---
