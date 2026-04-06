@@ -100,12 +100,12 @@ The system supports **regional languages (e.g., Marathi, Bengali, Kannada)**, en
 ## 📸 Example Output (Marathi Input)
 
 ```markdown
-![Marathi Input](./marathi input.jpeg)
+![Marathi Input](assets/marathi_input.jpeg)
 ```
 
 ---
 ```markdown
-![Marathi Output](marathi output.jpeg)
+![Marathi Output](assets/marathi_output.jpeg)
 ```
 
 ---
@@ -113,7 +113,8 @@ The system supports **regional languages (e.g., Marathi, Bengali, Kannada)**, en
 ## 🎥 Demo Video
 
 ```markdown
-[Watch Demo](real time working video (1).mp4)
+
+[Download / Watch Video](assets/demo.mp4)
 ```
 
 ---
