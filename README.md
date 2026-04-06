@@ -100,12 +100,12 @@ The system supports **regional languages (e.g., Marathi, Bengali, Kannada)**, en
 ## 📸 Example Output (Marathi Input)
 
 ```markdown
-![Marathi Input](https://github.com/aishwaryavaidya05/ocean-hazard-detection-using-nlp-sih/blob/main/marathi%20input.jpeg)
+![Marathi Input](marathi input.jpeg)
 ```
 
 ---
 ```markdown
-![Marathi Output](https://github.com/aishwaryavaidya05/ocean-hazard-detection-using-nlp-sih/blob/main/marathi%20output.jpeg)
+![Marathi Output](marathi output.jpeg)
 ```
 
 ---
@@ -113,7 +113,7 @@ The system supports **regional languages (e.g., Marathi, Bengali, Kannada)**, en
 ## 🎥 Demo Video
 
 ```markdown
-[Watch Demo](https://github.com/aishwaryavaidya05/ocean-hazard-detection-using-nlp-sih/blob/main/real%20time%20working%20video%20(1).mp4)
+[Watch Demo](real time working video (1).mp4)
 ```
 
 ---
