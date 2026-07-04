@@ -23,6 +23,15 @@ There is a need for a unified platform that enables citizens, coastal communitie
 * **Advanced NLP Capabilities** – Sentiment analysis and Named Entity Recognition
 
 ---
+##🛠️ Tech Stack
+Language: Python
+Framework: FastAPI
+Libraries: Transformers, spaCy, KeyBERT
+Models: mDeBERTa-v3 (Multilingual Classification), Multilingual BERT (Sentiment Analysis)
+Techniques: Hazard Classification, Urgency Detection, Relevance Filtering, Sentiment Analysis, Named Entity Recognition (NER), Keyword Extraction
+Tools: Git, GitHub, Uvicorn
+
+---
 
 ## 📊 Why Swagger UI?
 
