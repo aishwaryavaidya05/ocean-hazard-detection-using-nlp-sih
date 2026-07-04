@@ -23,7 +23,7 @@ There is a need for a unified platform that enables citizens, coastal communitie
 * **Advanced NLP Capabilities** – Sentiment analysis and Named Entity Recognition
 
 ---
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: Python
 Framework: FastAPI
 Libraries: Transformers, spaCy, KeyBERT
